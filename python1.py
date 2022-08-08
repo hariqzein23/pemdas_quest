@@ -1,0 +1,11 @@
+# Belajar Output
+print("Hello World")
+print("Nama Saya Rafiq")
+print("Saya penyuka Nabi Muhammad")
+Print("Idola saya Nabi Muhammad")
+print("saya Al Hadi")
+print("Saya Orang ")
+print("Saya Cakep")
+print("Saya jujur")
+print("Saya cakepp Banget")
+print("Kamu adalah KeKasih aku")
